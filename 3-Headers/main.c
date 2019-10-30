@@ -12,4 +12,4 @@ int main(
 }
 
 
-//gcc test.c -o test;./test
+//gcc main.c -o test;./test
