@@ -7,7 +7,7 @@ int main(){
    do {
       right_digit = number % 10;
       printf("%i", right_digit);
-      number /= 10n;
+      number /= 10;
       } while (number != 0);
    printf("\n");
    return 0;
