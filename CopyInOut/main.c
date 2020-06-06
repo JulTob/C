@@ -12,8 +12,8 @@ main(){
   // Declaracion de variable c, numerica
   c = getchar();
   while(c!=EOF){
-    \\\ EOF: End Of File
-    \\\\ Declarado en libreria stdio.h
+    /// EOF: End Of File
+    //// Declarado en libreria stdio.h
     
     putchar(c);
     c = getchar(c);
