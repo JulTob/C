@@ -3,7 +3,7 @@
 //  even or odd
 #include <stdio.h>
 int main(void){
-   int number_to_test, remainder;
+  int number_to_test, remainder;
   printf("Enter your number to be tested: ");
   scanf("%i", number_to_test);
   remainder = number_to_test % 2;
@@ -13,3 +13,10 @@ int main(void){
     printf("The number is odd. \n";
   return 0;
   }
+           
+           
+// if(condition){do if true}
+// else {do if not true}
+// conditioners linkers : 
+// AND:= && 
+// OR:= ||
